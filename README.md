@@ -20,44 +20,43 @@ Builder + Prototype — Combining both patterns to create and modify objects dyn
 
 *📂 Project Structure*
 
-Solution-Homework-3/
+**Solution-Homework-3/**
 
-│── src/
+*│── src/*
 
-│   ├── main/
+*│   ├── main/*
 
-│   │   ├── java/
+*│   │   ├── java/*
 
-│   │   │   ├── org/example/
+*│   │   │   ├── org/example/*
 
-│   │   │   │   ├── builder/
+*│   │   │   │   ├── builder/* 
 
-│   │   │   │   │   ├── IDungeonBuilder.java
+*│   │   │   │   │   ├── IDungeonBuilder.java*
 
-│   │   │   │   │   ├── SimpleDungeonBuilder.java
+*│   │   │   │   │   ├── SimpleDungeonBuilder.java*
 
-│   │   │   │   ├── prototype/
+*│   │   │   │   ├── prototype/*             
 
-│   │   │   │   │   ├── CloneableGameEntity.java
+*│   │   │   │   │   ├── CloneableGameEntity.java*
 
-│   │   │   │   │   ├── Room.java
+*│   │   │   │   │   ├── Room.java*
 
-│   │   │   │   │   ├── NPC.java
+*│   │   │   │   │   ├── NPC.java*
 
-│   │   │   │   ├── models/
+*│   │   │   │   ├── models/*          
 
-│   │   │   │   │   ├── Dungeon.java
+*│   │   │   │   │   ├── Dungeon.java*
 
-│   │   │   │   ├── demo/
+*│   │   │   │   ├── demo/*        
 
-│   │   │   │   │   ├── Main.java
+*│   │   │   │   │   ├── MUDBuilderDemo.java*
 
-│   │   │   │   │   ├── MUDBuilderDemo.java /* Task-1*/
+*│   │   │   │   │   ├── MUDPrototypeDemo.java*
 
-│   │   │   │   │   ├── MUDPrototypeDemo.java /* Task-2*/
+*│   │   │   │   │   ├── MUDCombinedDemo.java*
 
-│   │   │   │   │   ├── MUDCombinedDemo.java /* Task-3*/
+*│── pom.xml*                        
 
-│── pom.xml
+*│── README.md*        
 
-│── README.md   
